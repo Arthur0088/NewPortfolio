@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Mini Blog",
+    "imageSrc": "projects/miniblog.png",
+    "description": "Projeto de um mini blog em React com Firebase.",
+    "skills": [
+      "React",
+      "Javascript",
+      "Html",
+      "Css",
+      "Firebase"
+    ],
+    "demo": "https://miniblog-react-firebase.netlify.app",
+    "source": "https://github.com/Arthur0088/MiniBlog"
+  },
+  {
+    "title": "Secret Word",
+    "imageSrc": "projects/secretword.png",
+    "description": "Jogo de adivinhar palavras usando React.",
+    "skills": [
+      "React",
+      "Javascript",
+      "Html",
+      "Css"
+    ],
+    "demo": "https://secretwordgame.netlify.app",
+    "source": "https://github.com/Arthur0088/SecretWord"
+  },
+  {
+    "title": "TopMovies",
+    "imageSrc": "projects/topmovies.png",
+    "description": "Busca todos os top filmes na usando a api the movie db.",
+    "skills": [
+      "React",
+      "Javascript",
+      "Html",
+      "Css"
+    ],
+    "demo": "https://topbestmovies.netlify.app",
+    "source": "https://github.com/Arthur0088/TopMovies"
+  },
+  {
+    "title": "Calculadora React ",
+    "imageSrc": "projects/calculadora.png",
+    "description": "Primeiro projeto que realizei com react, uma Calculadora.",
+    "skills": [
+      "React",
+      "Javascript",
+      "Html",
+      "Css"
+    ],
+    "demo": "https://calculator-react-arthur.netlify.app",
+    "source": "https://github.com/Arthur0088/calculadora-React"
+  }
+]
